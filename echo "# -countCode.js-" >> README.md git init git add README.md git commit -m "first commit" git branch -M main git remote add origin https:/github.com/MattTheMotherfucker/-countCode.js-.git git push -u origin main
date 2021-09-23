@@ -1,0 +1,4 @@
+var temp = "FWmcfgAWxe.";
+var count = (temp.match(/A/g) || []).length;
+console.log(count);
+
